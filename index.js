@@ -42,7 +42,7 @@ inquirer.prompt([
     },
     {
     message: "What command should be run to install dependencies?",
-    name: "dependecies"
+    name: "dependencies"
     },
     {
     message: "What command should be run to run tests?",
@@ -69,6 +69,8 @@ inquirer.prompt([
     console.log(answers.userKnowledge)
     console.log(answers.contribute)
 })
+
+//Need to get these answers to go in the specific area in a generated readme.md file. 
 
 
 
