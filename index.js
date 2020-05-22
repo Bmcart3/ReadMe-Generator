@@ -1,6 +1,17 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
 
+//can i use forEach to go through each message?
+// function writeToFile(fileName, data) {
+//     fs.appendFile("README.md", process.argv[], function(err){
+//         if (err) {
+//             console.log(err);
+//         } else {
+//             console.log("Success! Added to the Readme!");
+//         }
+//     })
+// };
+
 
 inquirer.prompt([
     {
@@ -47,16 +58,25 @@ inquirer.prompt([
     }
 ])
 .then(function(answers){
-    fs
-
+    console.log(answers.username)
+    console.log(answers.email)
+    console.log(answers.URL)
+    console.log(answers.project)
+    console.log(answers.description)
+    console.log(answers.license)
+    console.log(answers.dependencies)
+    console.log(answers.tests)
+    console.log(answers.userKnowledge)
+    console.log(answers.contribute)
 })
+
+
 
 // const questions = [
 
 // ];
 
-// function writeToFile(fileName, data) {
-// }
+
 
 // function init() {
 
