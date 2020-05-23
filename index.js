@@ -72,7 +72,7 @@ ${data.description}
 
 ## Deployed Link
 
-${data.URL}
+[link](${data.URL})
 
 ## Installation 
 

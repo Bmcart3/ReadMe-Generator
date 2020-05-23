@@ -1,10 +1,10 @@
-# ReadMe-Generator
+# lakjsd
 
-![](https://img.shields.io/badge/License-None-<orange>)
+![](https://img.shields.io/badge/License-MIT-<orange>)
 
 ## Description
 
-This project generates a readme.md file using data supplied by the user via inquirer prompts.
+laskjdf
 
 ## Table of Contents
 
@@ -17,33 +17,33 @@ This project generates a readme.md file using data supplied by the user via inqu
 
 ## Deployed Link
 
-https://github.com/Bmcart3/ReadMe-Generator#Installation
+[link](https://github.com/Bmcart3/ReadMe-Generator#Installation)
 
 ## Installation 
 
 To install necessary dependencies, run the following command:
 
-    npm i
+    laksjdf
 
 ## Usage
 
-Nothing special to know about this repo.
+lajskdf
 
 ## License
 
-None
+MIT
 
 ## Contribute
 
-No contributions to the repo at this time.
+laskdj
 
 ## Tests
 
 To run tests, run the following command:
 
-    run tests!
+    lkajsdf
 
 ## Questions
 
-If you have any questions, please open an issue, contact me at Bmcart3@gmail.com, or on GitHub at github.com/bmcart3.
+If you have any questions, please open an issue, contact me at balsdkfj, or on GitHub at github.com/bmcart3@gmail.com.
     
