@@ -1,10 +1,10 @@
-# lakjsd
+# ReadMe-Generator
 
 ![](https://img.shields.io/badge/License-MIT-<orange>)
 
 ## Description
 
-laskjdf
+This generates a readme
 
 ## Table of Contents
 
@@ -17,17 +17,17 @@ laskjdf
 
 ## Deployed Link
 
-[link](https://github.com/Bmcart3/ReadMe-Generator#Installation)
+[Check it out here](https://github.com/Bmcart3/ReadMe-Generator#Installation)
 
 ## Installation 
 
 To install necessary dependencies, run the following command:
 
-    laksjdf
+    npm i
 
 ## Usage
 
-lajskdf
+nothing special
 
 ## License
 
@@ -35,15 +35,15 @@ MIT
 
 ## Contribute
 
-laskdj
+no contributions
 
 ## Tests
 
 To run tests, run the following command:
 
-    lkajsdf
+    run tests
 
 ## Questions
 
-If you have any questions, please open an issue, contact me at balsdkfj, or on GitHub at github.com/bmcart3@gmail.com.
+If you have any questions, please open an issue, contact me at bmcart3@gmail.com, or on GitHub at github.com/bmcart3.
     
