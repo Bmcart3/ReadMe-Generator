@@ -1,10 +1,10 @@
-# test is it working
+# ReadMe-Generator
 
-![](https://img.shields.io/badge/License-GPLv3-<orange>)
+![](https://img.shields.io/badge/License-None-<orange>)
 
 ## Description
 
-desciption goes here
+This project generates a readme.md file using data supplied by the user via inquirer prompts.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ desciption goes here
 
 ## Deployed Link
 
-anything.com
+https://github.com/Bmcart3/ReadMe-Generator#Installation
 
 ## Installation 
 
@@ -27,23 +27,23 @@ To install necessary dependencies, run the following command:
 
 ## Usage
 
-nothing
+Nothing special to know about this repo.
 
 ## License
 
-GPLv3
+None
 
 ## Contribute
 
-anything
+No contributions to the repo at this time.
 
 ## Tests
 
 To run tests, run the following command:
 
-    test this
+    run tests!
 
 ## Questions
 
-If you have any questions, please open an issue, contact me at bmcart3, or on GitHub at github.com/Bmcart3.
+If you have any questions, please open an issue, contact me at Bmcart3@gmail.com, or on GitHub at github.com/bmcart3.
     
